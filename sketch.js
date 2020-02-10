@@ -13,8 +13,13 @@ function showCoords(event) {
    
       var randColorValue ='#'+(0x1000000+(Math.random())*0xffffff).toString(16).substr(1,6);
       var randColorValue2 ='#'+(0x1000000+(Math.random())*0xffffff).toString(16).substr(1,6);
+      var randColorValue3 ='#'+(0x1000000+(Math.random())*0xffffff).toString(16).substr(1,6);
       document.getElementById("demo").style.backgroundColor=randColorValue;
       document.getElementById("demo2").style.backgroundColor=randColorValue2;
+      document.getElementById("demo3").style.color=randColorValue;
+      document.getElementById("demo4").style.color=randColorValue2;
+      document.getElementById("demo5").style.backgroundColor=randColorValue3;
+      
 
       // var a = ;
       // var b = 0;

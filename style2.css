@@ -150,7 +150,7 @@ height: 927px;, display the responsive wide screen version   */
 @media screen and (min-width:900px) {
 
     .container{
-   font-size:30px;
+   font-size:25px;
    height:20vh;
    line-height:30px;
 
