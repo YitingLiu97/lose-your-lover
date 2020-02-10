@@ -74,14 +74,25 @@ This is README template is licensed according to [Attribution 4.0 International 
 
 <!-- For your assignments you might consider  -->
 # Notes & Process
-I was struggling with Javascript. The idea is simple. I wanted to change the color of the background as well as the red cropped squares based on the position of my mouse. However, I couldn't figure out how to make it work after spending 2 hours searching and watching online tutorials. I then focused on working on a simple button click to change the color of the origianl red cropped squares.
+I picked the swiss poster and analyzed the visual design in Figma. 
 
+
+Here is my inspiration:
+<img src="../assets/Swiss Poster.png">
+
+I then adapted the design using rulers and design tools to create the poster. Later, I used the CSS code from Figma to create a basic image of the poster on the website. 
+<img src="../assets/Design Final.png">
+<img src="../assets/Design Guide.png">
+
+Since it is portait, I had to convert it to make sure it is responsive to the web. I used @media to make the restraint as the 700px.
 <!-- How you built this project - Include images, gifs, and notes here -->
-## Process & Documentation
-I made process in knowing the position of the mouse. However, when I try to incorporate the x and y value into rgb value for the object through its class name, it didn't work.
+<!-- ## Process & Documentation -->
 
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
+I was struggling with Javascript. The idea is simple. I wanted to change the color of the background as well as the red cropped squares based on the position of my mouse. However, I couldn't figure out how to make it work after spending 2 hours searching and watching online tutorials. I then focused on working on a simple button click to change the color of the origianl red cropped squares.
+
+I made process in knowing the position of the mouse. However, when I try to incorporate the x and y value into rgb value for the object through its class name, it didn't work.
 
 <!-- Any questions you have -->
 ## Questions
@@ -89,7 +100,7 @@ How to use onclick properly?
 How to create subtracted shape? Right now, I created squares with two colors: red and white. The background is also white, so it appears to be subtracted but it isn't. 
 
 <!-- References for resources and inspiration -->
-<!-- ## References
+## References
 
-* Author First Name, Author Last Name. [Link]()
-* Author First Name, Author Last Name. [Link]() -->
+* Reba Straley (Jones) [http://portfolios.artinstitutes.edu/gallery/27765089/Swiss-Design-Typography-Posters]()
+<!-- * Author First Name, Author Last Name. [Link]() -->

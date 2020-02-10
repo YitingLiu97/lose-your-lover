@@ -147,7 +147,7 @@ text-align: right;
 
  /* if the size is bigger than width: 600px;
 height: 927px;, display the responsive wide screen version   */
-@media screen and (min-width:900px) {
+@media screen and (min-width:700px) {
 
     .container{
    font-size:25px;
