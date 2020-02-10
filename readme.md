@@ -116,5 +116,5 @@ How to create subtracted shape? Right now, I created squares with two colors: re
 <!-- References for resources and inspiration -->
 ## References
 
-* Reba Straley (Jones) [http://portfolios.artinstitutes.edu/gallery/27765089/Swiss-Design-Typography-Posters]()
+* [Reba Straley (Jones)](http://portfolios.artinstitutes.edu/gallery/27765089/Swiss-Design-Typography-Posters)
 <!-- * Author First Name, Author Last Name. [Link]() -->
