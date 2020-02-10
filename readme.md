@@ -68,9 +68,9 @@ This is README template is licensed according to [Attribution 4.0 International 
 * [Openmoji project](https://www.openmoji.org/library/#search=notebook&emoji=1F4D4) for their glyphs
 * [PurpleBooth's Readme Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) -->
 
+<!-- ***
 ***
-***
-***
+*** -->
 
 <!-- For your assignments you might consider  -->
 # Notes & Process
