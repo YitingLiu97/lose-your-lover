@@ -76,14 +76,13 @@ This is README template is licensed according to [Attribution 4.0 International 
 # Notes & Process
 I picked the swiss poster and analyzed the visual design in Figma. 
 
-Here is my inspiration: <br>
+Here is my inspiration: 
 ![Images of swiss poster by Reba Straley (Jones)](https://github.com/YitingLiu97/lose-your-lover/blob/master/assets/Swiss%20Poster.png)
 
 <!-- <img src="../assets/Swiss Poster.png"> -->
 
 I then adapted the design using rulers and design tools to create the poster. 
 
-<br>
 ![Image of my final design from swiss poster inspo](
 https://github.com/YitingLiu97/lose-your-lover/blob/master/assets/Design%20Final.png)
 
