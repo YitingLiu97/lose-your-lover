@@ -89,7 +89,7 @@ How to use onclick properly?
 How to create subtracted shape? Right now, I created squares with two colors: red and white. The background is also white, so it appears to be subtracted but it isn't. 
 
 <!-- References for resources and inspiration -->
-## References
+<!-- ## References
 
 * Author First Name, Author Last Name. [Link]()
-* Author First Name, Author Last Name. [Link]()
+* Author First Name, Author Last Name. [Link]() -->
