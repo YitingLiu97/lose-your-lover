@@ -78,11 +78,15 @@ I picked the swiss poster and analyzed the visual design in Figma.
 
 
 Here is my inspiration:
-<img src="../assets/Swiss Poster.png">
+<!-- <img src="../assets/Swiss Poster.png"> -->
 
 I then adapted the design using rulers and design tools to create the poster. Later, I used the CSS code from Figma to create a basic image of the poster on the website. 
-<img src="../assets/Design Final.png">
-<img src="../assets/Design Guide.png">
+![Image of my final design from swiss poster inspo](
+https://github.com/YitingLiu97/lose-your-lover/blob/master/assets/Design%20Final.png)
+
+
+<!-- <img src="../assets/Design Final.png">
+<img src="../assets/Design Guide.png"> -->
 
 Since it is portait, I had to convert it to make sure it is responsive to the web. I used @media to make the restraint as the 700px.
 <!-- How you built this project - Include images, gifs, and notes here -->
